@@ -3,6 +3,7 @@ description: test
 template:
   repo: amazing-template
   name: amazing
+  description: uday test
 before:
   - type: createIssue
     title: Welcome!
